@@ -11,9 +11,9 @@ Github repository: https://github.com/KevinRoozrokh
 
 Blog: https://kevinroozrokh.com/
 
-Contact
-Email: KevRooz@Outlook.com
 LinkedIn: https://www.linkedin.com/in/kevin-roozrokh/
+
+Email: KevRooz@Outlook.com
 
 Version Notes //
 
