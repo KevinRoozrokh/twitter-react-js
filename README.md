@@ -18,7 +18,7 @@ Email: KevRooz@Outlook.com
 Version Notes //
 
 Version 1.00
-Built from scratch using Create-React-App
+Built from scratch using Create-React-App.
 Styling and icons were designed to match Twitter's newest UI as of April 20, 2021.
 
 Mouse over icons reveals menu name.
