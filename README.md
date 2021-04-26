@@ -1,11 +1,8 @@
-Twitter React JS Clone v1.00
+Twitter React JS Clone v1.00 - Icons are using Material UI API. Hosting and database are provided by Google Firebase.
 
 Kevin's Twitter React App is live at: https://twitter-react-7ec96.web.app/
 
 Coded by Kevin Roozrokh: https://kevinroozrokh.github.io/
-
-Icons are using Material UI API.
-Hosting and database are provided by Google Firebase.
 
 Github repository: https://github.com/KevinRoozrokh
 
