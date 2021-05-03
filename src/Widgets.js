@@ -16,8 +16,8 @@ function Widgets() {
       </div>
 
       <div className="widgets__widgetContainer">
-        <h5>Twitter App Clone V1.00</h5>
-        <h5>Coded in React JS by Kevin Roozrokh.</h5>
+        <a href="https://kevinroozrokh.github.io/" target="_blank" rel="noreferrer" ><h5>Twitter Clone Challenge v1.02</h5>
+        <h5>Coded in React JS by Kevin Roozrokh.</h5></a>
 
         <TwitterTimelineEmbed
           sourceType="profile"
