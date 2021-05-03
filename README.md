@@ -1,8 +1,8 @@
-Twitter React JS Clone v1.00 - Icons use Material UI API. Hosting and database are provided by Google Firebase.
-
-Kevin's Twitter React App is live at: https://twitter-react-7ec96.web.app/
+Twitter App Clone v1.02 - Twitter challenge was coded with React JS and icons use Material UI API. Hosting and database are provided by Google Firebase.
 
 Coded by Kevin Roozrokh: https://kevinroozrokh.github.io/
+
+Kevin's Twitter React App is live at: https://twitter-react-7ec96.web.app/
 
 Github repository: https://github.com/KevinRoozrokh
 
@@ -15,25 +15,21 @@ Email: KevRooz@Outlook.com
 Version Notes //
 
 Version 1.00
-Built from scratch using Create-React-App.
+Built using Create-React-App
 Styling and icons were designed to match Twitter's newest UI as of April 20, 2021.
-
-Mouse over icons reveals menu name.
-Press and hold on iOS and Android reveal menu name.
-This custom coded feature was much more complicated to implement than anticipated. Enjoy!
-
 Min-width set to 640px for feed.
 Max-width set to 640px for images.
 
-
 Version 1.01
-
+Added hover effects ToolTips. Mouse over icons reveals menu name.
+Press and hold on iOS and Android reveal menu name.
+This feature was much more complicated to implement than anticipated. Enjoy!
 
 Version 1.02
+Max-width set to 640px for feed and images.
+Cleaner more compact look for cell phones and mobile devices.
 
-
-
-
+**\*\*\***//REACT JS//\*\*\*\*\*\*\*
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
