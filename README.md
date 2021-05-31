@@ -1,18 +1,24 @@
 Twitter App Clone v1.02 - Twitter challenge was coded with React JS and icons use Material UI API. Hosting and database are provided by Google Firebase.
 
-Coded by Kevin Roozrokh: https://kevinroozrokh.github.io/
+---
 
 Kevin's Twitter React App is live at: https://twitter-react-7ec96.web.app/
 
-Github repository: https://github.com/KevinRoozrokh
-
-Blog: https://kevinroozrokh.com/
-
-LinkedIn: https://www.linkedin.com/in/kevin-roozrokh/
+Coded by Kevin Roozrokh: https://kevinroozrokh.github.io/
 
 Email: KevRooz@Outlook.com
 
-Version Notes //
+---
+[![Github](https://img.shields.io/badge/-Github-gray?style=flat-square&logo=Github&logoColor=white)](https://github.com/KevinRoozrokh)
+[![Github.io](https://img.shields.io/badge/-Github.io-black?style=flat-square&logo=Github&logoColor=white)](https://kevinroozrokh.github.io/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-roozrokh/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kevinkayvan/)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/donkayvan/)
+[![Twitter](https://img.shields.io/badge/-Twitter-teal?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/kevinkayvan)
+
+---
+
+**Version Notes //**
 
 Version 1.00
 Built using Create-React-App
