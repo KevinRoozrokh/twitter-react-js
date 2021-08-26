@@ -1,10 +1,16 @@
-Twitter App Clone v1.02 - Twitter challenge was coded with React JS and icons use Material UI API. Hosting and database are provided by Google Firebase.
+# twitter-react-js
+`Twitter App Clone` v1.02 - Twitter challenge was coded with ReactJS & Material UI. Hosting and database are provided by Google Firebase.
+
+---
+Twitter Clone App: https://twitter-react-7ec96.web.app/
 
 ---
 
-Kevin's Twitter React App is live at: https://twitter-react-7ec96.web.app/
+Coded by `Kevin Roozrokh`.
 
-Coded by Kevin Roozrokh: https://kevinroozrokh.github.io/
+Portfolio: https://kevinroozrokh.github.io/
+
+Github: https://github.com/KevinRoozrokh
 
 Email: KevRooz@Outlook.com
 
